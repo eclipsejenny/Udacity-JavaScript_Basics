@@ -1,3 +1,7 @@
+# Udacity-JavaScript_Basics
+
+This repository contains my project of an online resume when learning the [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) course at [Udacity](https://www.udacity.com). My work is mainly in the js/resumeBuilder.js file. The other files are provided by the course. Details of the project is provided below.
+
 # Project Details
 ## How do I complete this project?
 Review the Online Resume [Project Rubric](https://review.udacity.com/?_ga=1.189245867.12280332.1465333852#!/projects/2962818615/rubric).
